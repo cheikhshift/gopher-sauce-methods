@@ -1,5 +1,5 @@
 # Tutorial on template pipelines
-Add functionality to your webapp pages.
+Add functionality to your webapp pages with Go Server.
 
 ![enter image description here](http://www.unixstickers.com/image/data/stickers/golang/Golang%20mashup.sh.png)
 
@@ -7,10 +7,6 @@ Add functionality to your webapp pages.
 
  - Give your web pages full access to your Go lang packages.
 
-### Requirements
-
-- Go lang
-- [Gopher Sauce](https://github.com/cheikhshift/Gopher-Sauce/blob/master/readme.md)
 
 ## Getting started
 (unix commands)
